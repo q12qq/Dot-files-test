@@ -1,0 +1,5 @@
+2022/07/27-20:48:13.054 3855 Reusing MANIFEST /home/q12/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/07/27-20:48:13.054 3855 Recovering log #3
+2022/07/27-20:48:13.057 3855 Level-0 table #3: started
+2022/07/27-20:48:13.063 3855 Level-0 table #3: 490809 bytes OK
+2022/07/27-20:48:13.065 3855 Delete type=0 #3
